@@ -1,0 +1,11 @@
+{
+  "name": "lib-example",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "example/*",
+      "apps/*"
+    ]
+  }
+}
